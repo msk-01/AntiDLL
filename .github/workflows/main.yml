@@ -20,7 +20,7 @@ jobs:
       fail-fast: false
       matrix:
         os:
-          - ubuntu-latest
+          - ubuntu-18.04
           - windows-latest
 
         sm_version:
